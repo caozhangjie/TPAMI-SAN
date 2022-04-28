@@ -76,20 +76,20 @@ Code for our TPAMI paper [**From Big to Small: Adaptive Learning to Partial-Set 
    ```
 
 ### Testing:
-   See the last line of the 'log.txt' file in the corresponding directory.
+   After the training finished, the final accuracy will be shown in the last line of the log file: 'log.txt' in the corresponding directory refered by the parameter '--output'.
 
 ### Citation
 
 If you find this code useful for your research, please cite our paper
 
-> @inproceedings{liang2020baus,  
->  &nbsp; &nbsp;  title={A Balanced and Uncertainty-aware Approach for Partial Domain Adaptation},  
->  &nbsp; &nbsp;  author={Liang, Jian, and Wang, Yunbo, and Hu, Dapeng, and He, Ran and Feng, Jiashi},  
->  &nbsp; &nbsp;  booktitle={European Conference on Computer Vision (ECCV)},  
->  &nbsp; &nbsp;  pages={xx-xx},  
->  &nbsp; &nbsp;  month = {},  
->  &nbsp; &nbsp;  year={2021}  
-> }
+```
+@ARTICLE{SAN,
+  author={Cao, Zhangjie and You, Kaichao and Wang, Jianmin and Long, Mingsheng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={From Big to Small: Adaptive Learning to Partial-Set Domains}, 
+  year={2022},
+  doi={10.1109/TPAMI.2022.3159831}}
+```
 
 ### Acknowledgement
 
