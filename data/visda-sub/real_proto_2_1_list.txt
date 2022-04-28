@@ -1,0 +1,5 @@
+/data/visda-2017/validation/bicycle/bicycle_125889.jpg 1
+/data/visda-2017/validation/motorcycle/motorcycle_1360286.jpg 6
+/data/visda-2017/validation/bus/bus_163580.jpg 2
+/data/visda-2017/validation/car/car_358495.jpg 3
+/data/visda-2017/validation/truck/truck_1197798.jpg 11

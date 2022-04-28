@@ -1,0 +1,7 @@
+/data/visda-2017/validation/bicycle/bicycle_126497.jpg 1
+/data/visda-2017/validation/motorcycle/motorcycle_154718.jpg 6
+/data/visda-2017/validation/bus/bus_165962.jpg 2
+/data/visda-2017/validation/car/car_350873.jpg 3
+/data/visda-2017/validation/truck/truck_401558.jpg 11
+/data/visda-2017/validation/knife/knife_697116.jpg 5
+/data/visda-2017/validation/skateboard/skateboard_641952.jpg 9

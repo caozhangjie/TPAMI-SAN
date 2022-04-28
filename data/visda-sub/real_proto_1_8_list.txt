@@ -1,0 +1,2 @@
+/data/visda-2017/validation/bicycle/bicycle_2168473.jpg 1
+/data/visda-2017/validation/motorcycle/motorcycle_1789796.jpg 6
