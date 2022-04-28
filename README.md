@@ -1,8 +1,6 @@
 Code for our TPAMI paper [**From Big to Small: Adaptive Learning to Partial-Set Domains**](https://arxiv.org/abs/2203.07375)
 
-The code is built based on the codebase in [here]().
-
-![framework](framework.jpg)
+![framework](framework.png)
 
 ### Prerequisites:
 - python == 3.6.8
@@ -12,8 +10,7 @@ The code is built based on the codebase in [here]().
 
 ### Dataset:
 
-- Please manually download the datasets [Office](https://drive.google.com/file/d/0B4IapRTv9pJ1WGZVd1VDMmhwdlE/view), [Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view), [ImageNet-Caltech](http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz) from the official websites, and modify the path of images in each '.txt' under the folder './data/'.
-- We adopt the same data protocol as [PADA](https://github.com/thuml/PADA/tree/master/pytorch/data).
+- Please manually download the datasets [Office](https://drive.google.com/file/d/0B4IapRTv9pJ1WGZVd1VDMmhwdlE/view), [Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view), [ImageNet-Caltech](http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz) from the official websites, and modify the path of images in each '.txt' under the folder 'data/', [VisDA-2017](http://ai.bu.edu/visda-2017/), [OpenMIC](http://users.cecs.anu.edu.au/~koniusz/openmic-dataset/),
 
 ### Training:
 1. ##### Partial Domain Adaptation (PDA) on the Office-Home dataset [Art(s=0) -> Clipart(t=1)] Art:0,Clipart:1,Product:2,Real_World:3
